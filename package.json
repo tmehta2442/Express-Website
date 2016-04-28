@@ -1,0 +1,25 @@
+{
+  "name": "express_website",
+  "version": "1.0.0",
+  "description": "Simple website",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tmehta2442/Express-Website.git"
+  },
+  "author": "Tejas Mehta",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "*",
+    "express": "*",
+    "jade": "*",
+    "nodemailer": "*"
+  },
+  "bugs": {
+    "url": "https://github.com/tmehta2442/Express-Website/issues"
+  },
+  "homepage": "https://github.com/tmehta2442/Express-Website#readme"
+}
